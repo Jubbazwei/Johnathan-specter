@@ -116,7 +116,7 @@ img{
 }
 #first-p{
     margin-left: 100px;
-    margin-top:-13rem;
+    margin-top: -9.5rem;
     margin-bottom: 6.375rem;
 }
 #second-p{
@@ -314,7 +314,6 @@ img{
     padding:17rem 0;
 }
 .footer{
-    margin-left:-629px;
     position:relative;
     top:110px;
     height:55.44px;
